@@ -8,11 +8,11 @@
 html {
   font-size: 62.5%;
   scroll-behavior: smooth;
-  background: #05161a !important;
+  background: #1d1b26 !important;
 }
 
 body {
-  background: #05161a !important;
+  background: #1d1b26 !important;
 }
 
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
@@ -24,7 +24,7 @@ body {
 }
 
 .pre-loader {
-  background: #05161a;
+  background: #1d1b26;
   font-family: Arial;
   min-height: 100vh;
   width: 100%;

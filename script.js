@@ -1,7 +1,7 @@
 $(window).on("load", function() {
   $(".pre-loader").addClass("none");
 });
-var words = ['Welcome to MagiTech', 'Here we provide multitude of services like;', 'Front-End Web Development', 'Back-end Web Development', 'Advice related to web services and much more...'],
+var words = ['Welcome to CodeLiterature', 'Here we provide multitude of services like;', 'Front-End Web Development', 'Back-end Web Development', 'Advice related to web services and much more...'],
   part,
   i = 0,
   offset = 0,
